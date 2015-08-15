@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "~2.3.1",
+    "gulp-bootlint": "*",
+    "gulp-contrib-clean": "*",
+    "gulp-contrib-compress": "*",
+    "gulp-contrib-concat": "*",
+    "gulp-contrib-copy": "*",
+    "gulp-contrib-csslint": "*",
+    "gulp-contrib-cssmin": "*",
+    "gulp-contrib-jshint": "*",
+    "gulp-contrib-less": "*",
+    "gulp-contrib-uglify": "*",
+    "gulp-contrib-watch": "*",
+    "gulp-csscomb": "*",
+    "gulp-exec": "*",
+    "gulp-html": "*",
+    "load-gulp-config": "*",
+    "load-gulp-tasks": "*",
+    "laravel-elixir": "~2.3.13"
+  },
+  "dependencies": {
+    "laravel-elixir": "^2.0.0",
+    "bootstrap-sass": "^3.0.0"
+  }
+}
